@@ -1,0 +1,6 @@
+state is a rep of all the dat in our app
+each component can have its own state
+one object that holds all the data of our app or a piece of our app
+
+store all your data in state and whenever you want to edit the page...you edit the state and react will edit the
+dom/page for you
